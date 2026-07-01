@@ -31,7 +31,7 @@ A modern, full-stack web application for online doctor appointment booking, buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AminTheCodeReaper/doctor-appointment.git
+   git clone https://github.com/AminTheCodeReaper/doctor-appointment-final.git
    cd doctor-appointment
    ```
 
